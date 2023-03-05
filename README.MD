@@ -1,0 +1,1 @@
+In OpenLayers6, Leaflet is not tested.
